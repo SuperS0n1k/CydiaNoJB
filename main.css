@@ -1,3 +1,7 @@
+body {
+ background-image: url("bg.png");
+}
+
 #app {
   font-family: -apple-system, BlinkMacSystemFont;
   text-align: center;
